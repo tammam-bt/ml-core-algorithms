@@ -31,27 +31,12 @@ If you can implement it from scratch, you understand it.
 
 #### Regression
 
-* Linear Regression (Normal Equation)
 * Linear Regression (Gradient Descent)
-* Ridge Regression
-* Lasso Regression
 * Polynomial Regression
 
 #### Classification
 
 * Logistic Regression
-* k-Nearest Neighbors (k-NN)
-* Naive Bayes (Gaussian)
-* Perceptron
-* Support Vector Machine (Linear)
-
----
-
-### 🔍 Unsupervised Learning
-
-* K-Means Clustering
-* Principal Component Analysis (PCA)
-* Hierarchical Clustering (Agglomerative)
 
 ---
 
